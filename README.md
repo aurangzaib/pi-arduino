@@ -1,4 +1,4 @@
 pi-arduino
 ==========
 
-this repo hahs all my arduino and raspberri pi code
+this repo has all my arduino and raspberri pi code
